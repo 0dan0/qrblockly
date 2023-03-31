@@ -44,7 +44,7 @@
     </div>
     <div id="blocklyDiv"></div>
   </div>
-  <button onclick="generateBASICCode()">Generate BASIC Code</button>
+  <button onclick="generateLabsCode()">Generate Labs Code</button>
   <pre id="output"></pre>
   <script>
     var toolbox = document.getElementById("toolboxXml");
