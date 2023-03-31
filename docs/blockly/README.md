@@ -60,19 +60,20 @@
     }
   </script>
  
-	<div id="qrcode_txt" style="width: 360px">
-	 <center>
-	  <div id="qrcode"></div><br>
-	  <b><font color="#009FDF">GoProQR:</font></b> <em id="qrtext"></em><br>
-	  <b><font color="#005CAC">Maximum Shutter Angle</font></b>
-	 </center>
-	</div>
-	<button id="copyImg">Copy Image to Clipboard</button>
-	<br>
-	<br>
-	Share this QR Code as a URL: <small id="urltext"></small><br>
-	<button id="copyBtn">Copy URL to Clipboard</button>
-        
+
+<div id="qrcode_txt" style="width: 360px">
+ <center>
+  <div id="qrcode"></div><br>
+  <b><font color="#009FDF">GoProQR:</font></b> <em id="qrtext"></em><br>
+  <b><font color="#005CAC">Maximum Shutter Angle</font></b>
+ </center>
+</div>
+<button id="copyImg">Copy Image to Clipboard</button>
+<br>
+<br>
+Share this QR Code as a URL: <small id="urltext"></small><br>
+<button id="copyBtn">Copy URL to Clipboard</button>
+
 ## Background
 
 Stuff here
